@@ -5,8 +5,6 @@ from datetime import datetime
 import subprocess
 from string import Template
 
-SLEEP_TIME = 0.01
-
 def readfile(afile, thefile)
     with open(afile, r) as thefile:
 
